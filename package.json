@@ -1,0 +1,14 @@
+{
+  "name": "Flatten",
+  "version": "0.0.1",
+  "description": "Flatten nested arrays to a master array.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Adrian Cooney (cooney.adrian@gmail.com)",
+  "license": "MIT"
+}
